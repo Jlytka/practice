@@ -1,0 +1,4 @@
+Point data:
+Point: (10, 20)
+Colored point data:
+Colored Point: (5, 5), Color: Red

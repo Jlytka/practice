@@ -1,0 +1,6 @@
+opened 'text.txt' 
+opened 'result.txt'
+start of searching words that starts on 'T'
+end of searching words that starts on 'T'
+closed file 'result.txt'
+closed file 'text.txt' 

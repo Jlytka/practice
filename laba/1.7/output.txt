@@ -1,0 +1,5 @@
+found digits:
+1
+2
+45
+amount: 3

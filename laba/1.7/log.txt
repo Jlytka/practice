@@ -1,0 +1,9 @@
+data processing stage:
+incoming data: i have 1 arm 2 legs 45 heads and 1.45 finger
+
+results:
+found digits:
+        1
+        2
+       45
+amount: 3
